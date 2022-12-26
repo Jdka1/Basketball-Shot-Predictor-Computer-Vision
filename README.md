@@ -1,1 +1,1 @@
-# Basketball Shot Predictor using opencv
+# Basketball Shot Predictor Using opencv
