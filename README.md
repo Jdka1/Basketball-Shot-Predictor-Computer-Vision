@@ -11,4 +11,4 @@ and then have binarization and dilation applied them. They are then detected thr
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](assets/ball.jpg)  |  ![](https://...Ocean.png)
