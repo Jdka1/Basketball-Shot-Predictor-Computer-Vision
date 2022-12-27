@@ -1,5 +1,5 @@
 # Basketball Shot Predictor Using cvzone/opencv
-This is a python project which tracks both a basketball and a rim and predicts if the shot will go through the rim. 
+This is a python project which tracks both a basketball and a rim against a background and predicts if the shot will be a make or a miss. 
 
 ## Computer Vision
 the ball and rim are isolated from the background video using HSV color masking
