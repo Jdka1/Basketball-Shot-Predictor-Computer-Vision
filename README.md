@@ -55,3 +55,9 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 </p>
 
 <br>
+
+## Future Improvements
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
