@@ -10,4 +10,4 @@ rim_HSV_mask_vals = {'hmin': 0, 'smin': 59, 'vmin': 180, 'hmax': 5, 'smax': 103,
 and then have binarization and dilation applied them. They are then detected through cvzones's ```findContours()``` function which returns the locations of all the contours, as well as a rectangle that surrounds them. For the ball the center of this rectangle is used as its center and for the rim the left and rightmost points of the rectangle as well as the y position of the rectangle are used to determine if the ball will go in.
 
  
-<img src="assets/ball.jpg" align="left" height="48" width="48" >
+<img src="assets/ball.jpg" align="left" height="250" width="250" > <img src="assets/rim.jpg" align="left" height="250" width="250" >
