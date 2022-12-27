@@ -57,6 +57,7 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 <br>
 
 ## Future Improvements
-- [x] Add depth tracking: count the number of pixels in the ball to determine how far away it is
+- [x] Improve ball tracking: erode and dilate pixels to remove noise and make sure contours are centered on the ball
+- [ ] Add depth tracking: count the number of pixels in the ball to determine how far away it is
 - [ ] Improve rim tracking: track through neural networks rather than just color masking
 
