@@ -31,8 +31,6 @@ while True:
     
     frame, mask = color_finder.update(frame, rim_HSV_mask_vals)
     
-    cv.imshow('hi',frame)
-    
     kernel = np.ones((2,4), np.uint8)
     frame = cv.dilate(frame, kernel, iterations=12)
     
