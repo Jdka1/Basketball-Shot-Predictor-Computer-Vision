@@ -1,4 +1,4 @@
-# Basketball Shot Predictor Using cvzone/opencv
+# Basketball Shot Predictor
 This is a python project which tracks both a basketball and a rim against a background and predicts if the shot will be a make or a miss. 
 
 ## Computer Vision
@@ -11,3 +11,8 @@ and then have binarization and dilation applied them. They are then detected thr
 
  
 <img src="assets/ball.jpg" align="left" height="250" width="250" > <img src="assets/rim.jpg" align="left" height="250" width="250" >
+
+
+## Machine Learning
+
+<img src="assets/ballarc.jpg" align="left" height="50%" width="auto" >
