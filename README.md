@@ -3,6 +3,13 @@ This is a python program that tracks both a basketball and a rim against a backg
 
 <br>
 
+
+## Demonstration
+
+<img src="assets/makegif.gif" width="100%" > <img src="assets/missgif.gif" width="100%" >
+
+<br>
+
 ## Computer Vision
 the ball and rim are isolated from the background video using HSV color masking
 ```
@@ -48,7 +55,3 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 </p>
 
 <br>
-
-## Demonstration
-
-<img src="assets/makegif.gif" width="100%" > <img src="assets/missgif.gif" width="100%" >
