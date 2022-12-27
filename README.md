@@ -19,4 +19,4 @@ and then have binarization and dilation applied them. They are then detected thr
 
 ## Machine Learning
 
-<img src="assets/assets/shotarc.jpg" height="400" >
+<img src="assets/shotarc.jpg" height="400" >
