@@ -12,6 +12,7 @@ and then have binarization and dilation applied them. They are then detected thr
  
 <img src="assets/ball.jpg" align="left" height="250" width="250" > <img src="assets/rim.jpg" align="left" height="250" width="250" >
 
+<br><br>
 
 ## Machine Learning
 
