@@ -13,7 +13,7 @@ and then have binarization and dilation applied them. They are then detected thr
 
 <br>
  
-<img src="assets/ball.jpg" height="250" width="250" > <img src="assets/rim.jpg" height="250" width="250" >
+<img src="assets/ball.jpg" height="250" > <img src="assets/rim.jpg" height="250" >
 
 <br>
 
@@ -23,10 +23,10 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 
 <br>
 
-<img src="assets/shotarcmake.jpg" height="285" > <img src="assets/shotarcmiss.jpg" height="285" >
+<img src="assets/shotarcmake.jpg" width="50%" > <img src="assets/shotarcmiss.jpg" width="50%" >
 
 <br>
 
 ## Demonstration
 
-<img src="assets/makegif.gif" width="100%" > <img src="assets/missgif.gif" height="100%" >
+<img src="assets/makegif.gif" width="100%" > <img src="assets/missgif.gif" width="100%" >
