@@ -14,4 +14,4 @@ and then have binarization and dilation applied them. They are then detected thr
 ![](assets/ball.jpg)  |  ![](https://...Ocean.png)
  -->
  
- ![](assets/ball.jpg) ![](assets/rim.jpg)
+ ![](assets/ball.jpg) ![](assets/rim.jpg=250x250)
