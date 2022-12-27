@@ -14,7 +14,7 @@ rim_HSV_mask_vals = {'hmin': 0, 'smin': 59, 'vmin': 180, 'hmax': 5, 'smax': 103,
 
 | Ball Mask  | Rim Mask |
 | -----------|--------- |
-|  <img src="assets/ballmask.jpg" height="250" > <img src="assets/rim.jpg" height="250" > | Content Cell  |
+|  <img src="assets/ballmask.jpg" height="250" > | <img src="assets/rimmask.jpg" height="250" >   |
 
 <br>
 
