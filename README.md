@@ -15,4 +15,4 @@ and then have binarization and dilation applied them. They are then detected thr
 
 ## Machine Learning
 
-<img src="assets/ballarc.jpg" align="left" height="50%" width="auto" >
+<img src="assets/ballarc.jpg" align="left" height="400" >
