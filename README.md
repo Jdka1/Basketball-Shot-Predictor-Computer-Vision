@@ -25,7 +25,9 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 
 <br>
 
-<img src="assets/shotarcmake.jpg" width="50%" height="50%" > <img src="assets/shotarcmiss.jpg" width="50%" height="50%" >
+<p align="center"> 
+ <img src="assets/shotarcmake.jpg" width="50%" height="50%" > <img src="assets/shotarcmiss.jpg" width="50%" height="50%" >
+</p>
 
 <br>
 
