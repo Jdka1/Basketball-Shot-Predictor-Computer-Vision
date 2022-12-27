@@ -34,7 +34,7 @@ and then have binarization and dilation applied them. They are then detected thr
 
 <br>
 
-For the ball the center of this rectangle is used as its center and for the rim the left and rightmost points of the rectangle as well as the y position of the rectangle are used to determine if the ball will go in.
+For the ball the center of this rectangle is used as its center and for the rim the left and rightmost points of the rectangle as well as the y position of the rectangle are used to determine if the ball will go in. The coordinates of the ball at each frame are stored in an array to be used for predicting its path through polynomial regression.
 
 <br>
 
