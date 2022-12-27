@@ -50,6 +50,10 @@ while True:
     
     # Find location of the ball
     masked_img, mask = color_finder.update(frame, ball_HSV_mask_vals)
+    
+    kernel = np.ones((2,4), np.uint8)
+    frame = cv.dilate(frame, kernel, iterations=3)
+    
     frame, contours = cvzone.findContours(masked_img, mask, minArea=400)
     
     if contours:
