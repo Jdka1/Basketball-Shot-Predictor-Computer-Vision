@@ -57,8 +57,6 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 <br>
 
 ## Future Improvements
-- [x] Add depth tracking
-      - count the number of pixels in the ball to determine how far away it is
-- [] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Add depth tracking: count the number of pixels in the ball to determine how far away it is
+- [] Improve rim tracking: track through neural networks rather than just color masking
 
