@@ -21,7 +21,9 @@ rim_HSV_mask_vals = {'hmin': 0, 'smin': 59, 'vmin': 180, 'hmax': 5, 'smax': 103,
 and then have binarization and dilation applied them. They are then detected through cvzones's ```findContours()``` function which returns the locations of all the contours, as well as a rectangle that surrounds them.
 <br>
 
-<img src="assets/ballcontours.jpg" height = 250 align="center" >
+<p align="center"> 
+ <img src="assets/ballcontours.jpg" height = 250 >
+</p>
 
 <br>
 
