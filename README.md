@@ -19,4 +19,8 @@ and then have binarization and dilation applied them. They are then detected thr
 
 ## Machine Learning
 
-<img src="assets/shotarc.jpg" height="400" >
+The previously tracked points for the ball are run through numpy's ```polyfit()``` function to return coefficients for a parabola that predicts the balls arc. If the arc goes through the rim **Make** is displayed on the screen, and if it doesn't **Miss** is displayed.
+
+<br>
+
+<img src="assets/shotarc.jpg" height="200" >
