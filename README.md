@@ -1,5 +1,5 @@
 # Basketball Shot Predictor
-This is a python project which tracks both a basketball and a rim against a background and predicts if the shot will be a make or a miss. 
+This is a python program that tracks both a basketball and a rim against a background and predicts if the shot will be a make or a miss. 
 
 <br>
 
