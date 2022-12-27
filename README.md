@@ -28,3 +28,5 @@ The previously tracked points for the ball are run through numpy's ```polyfit()`
 <br>
 
 ## Demonstration
+
+<img src="assets/makegif.jpg" height="285" > <img src="assets/missgif.jpg" height="285" >
