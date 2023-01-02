@@ -86,11 +86,13 @@ while True:
         for point in ball_pts_at_rim_xs:
             original = cv.circle(original, (point), 10, (255, 0, 0), -1)
         
-        made = False
-        for point in ball_pts_at_rim_xs:
-            if abs(point[1] - rim_height) < h/2:
-                made = True
-                break
+        if len(prev_position_points) < 4:
+            made = False
+            for point in ball_pts_at_rim_xs:
+                if abs(point[1] - rim_height) < h/2:
+                    made = True
+                    break
+                    
         if made:
             original = cv.putText(original, 'Make', (20,75), cv.FONT_HERSHEY_SIMPLEX, 2.5, (0,255,0), 2, cv.LINE_AA)
         else:
